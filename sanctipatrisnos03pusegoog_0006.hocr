@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sanctipatrisnos03pusegoog_0006.png"; bbox 0 0 3238 5158; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1403 2016 1994 2655">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1403 2016 1994 2655">
+     <span class='ocr_line' id='line_1_1' title="bbox 1403 2016 1994 2655; baseline 0 2503"><span class='ocrx_word' id='word_1_1' title='bbox 1403 2016 1994 2655; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1562 2878 1808 2931">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1562 2878 1808 2931">
+     <span class='ocr_line' id='line_1_2' title="bbox 1562 2878 1808 2931; baseline -0.004 0"><span class='ocrx_word' id='word_1_2' title='bbox 1562 2878 1808 2931; x_wconf 83' lang='lat' dir='ltr'>APUD</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 968 3104 2400 3170">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 968 3104 2400 3170">
+     <span class='ocr_line' id='line_1_3' title="bbox 968 3104 2400 3170; baseline 0.001 -4"><span class='ocrx_word' id='word_1_3' title='bbox 968 3104 1048 3167; x_wconf 90' lang='lat' dir='ltr'>A.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1118 3104 1755 3168; x_wconf 90' lang='lat' dir='ltr'>MACMILLAN</span> <span class='ocrx_word' id='word_1_5' title='bbox 1828 3106 1949 3169; x_wconf 81' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_6' title='bbox 2025 3105 2400 3170; x_wconf 86' lang='lat' dir='ltr'>SOCIOS.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
